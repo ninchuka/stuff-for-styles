@@ -1,0 +1,2 @@
+#444 dark grey for background
+#D5D5D5 light grey for text
